@@ -3,4 +3,4 @@ Sentiment analysis is the use of natural language processing, text analysis, com
 
 Relevant stuff from NLP course by deeplearning.ai, hosted on Coursera.
 
-Natural Language Processing (NLP) is a subfield of linguistics,computer science, and artificial intelligence that uses algorithms to interpret and manipulate human language.
+Natural Language Processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence that uses algorithms to interpret and manipulate human language.
